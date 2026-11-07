@@ -22,7 +22,3 @@
 **Tools:**
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-
-## 📊 GitHub Stats
-
-![Thearith's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thearith&show_icons=true&theme=default)
