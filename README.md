@@ -17,14 +17,6 @@ I'm Thearith, a Python Backend Developer from Cambodia. I'm passionate about bui
 
 ---
 
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thearith7&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
