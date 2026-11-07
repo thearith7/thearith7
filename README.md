@@ -48,22 +48,6 @@ I'm Thearith, a Python Backend Developer from Cambodia. I'm passionate about bui
 
 ---
 
-## 💻 Featured Projects
-
-<!-- Add your featured project repositories here as they become available. -->
-
----
-
-## 🌱 Currently Learning
-
-- Advanced FastAPI
-- Authentication & Authorization
-- Pytest – Python Testing
-- Docker & Deployment
-- Backend Project Development
-
----
-
 ## 📫 Connect With Me
 
 <p align="left">
