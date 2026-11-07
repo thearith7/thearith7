@@ -8,23 +8,10 @@ I'm Thearith, a Python Backend Developer from Cambodia. I'm passionate about bui
 
 ## 🚀 Tech Stack & Tools
 
-### Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,js" height="65" />
-</p>
-
-### Backend Development
-<p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi,spring" height="65" />
-</p>
-
-### Database
-<p align="left">
   <img src="https://skillicons.dev/icons?i=postgres" height="65" />
-</p>
-
-### Tools & Platforms
-<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="65" />
 </p>
 
